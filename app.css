@@ -38,6 +38,7 @@ h3{
 }
 
 /* utilities */
+
 .container{
     width: 100vw;
     height: 100vh;
@@ -46,6 +47,7 @@ h3{
     align-items: center;
     max-width: 80rem;
     margin: 0 auto;
+    padding: 2rem;
 }
 
 .container > *{

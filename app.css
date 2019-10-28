@@ -37,6 +37,7 @@ h3{
     font-weight: 500;
 }
 
+/* utilities */
 .container{
     width: 100vw;
     height: 100vh;
@@ -72,5 +73,7 @@ h3{
 .hidden{
     display: none;
 }
+
+/*buttons*/
 
 

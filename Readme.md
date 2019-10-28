@@ -1,6 +1,6 @@
 # Quiz App with HTML CSS Javascript
 
-## Atualização: 28 de outubro de 2019 - 10:37
+## Atualização: 28 de outubro de 2019 - 14:20
 ## Criação: 25 de outubro de 2019
 ## Prática : @douglasabnovato
 

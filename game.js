@@ -7,7 +7,7 @@ let score = 0;
 let questionCounter = 0;
 let availableQuestions = [];
 
-let question = [
+let questions = [
     {
         question: "Inside which HTML element do we put the Javascript ?",
         choice1: "<script>",
@@ -72,7 +72,7 @@ choice.forEach(choice => {
         const selectAnswer = selectedChoice.dataset["number"];
         console.log(selectAnswer);
         getNewQuestion();
-        
+
     });
 });
 

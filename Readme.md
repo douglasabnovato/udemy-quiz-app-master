@@ -9,13 +9,13 @@
 ![GitHub](/images/logo-github.png)
 
 ### Section 1 - Project
-1. Introduction and Resources 
-2. Create and Style the home page 
-a. extensions: Live Server 5.6.1
-b. css-tricks: `rem` for global sizing and `rem` for local sizing
-3. Create and style the game page
-4. display hard coded questions and answers
-5. display feedback for Correct / Incorrect Answers
+1. Introduction and Resources. 
+2. Create and Style the home page .
+a. extensions: Live Server 5.6.1.
+b. css-tricks: `rem` for global sizing and `rem` for local sizing.
+3. Create and style the game page.
+4. display hard coded questions and answers.
+5. display feedback for Correct / Incorrect Answers.
 6. Create Head's up display (HUD)
 7. Create a progress bar
 8. Create and style the end page

@@ -20,7 +20,7 @@ b. css-tricks: `rem` for global sizing and `rem` for local sizing.
 7. Create a progress bar.
 8. Create and style The End page.
 9. Save High Scores in Local Storage. 
-10. load and display high scores from local storage
+10. Load and display High Scores from Local Storage. 
 11. fetch API to load questions from local json file
 12. fetch API to load questions from open trivia db API
 13. create a spinning loader 

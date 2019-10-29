@@ -16,8 +16,8 @@ b. css-tricks: `rem` for global sizing and `rem` for local sizing.
 3. Create and style the game page.
 4. display hard coded questions and answers.
 5. display feedback for Correct / Incorrect Answers.
-6. Create Head's up display (HUD)
-7. Create a progress bar
+6. Create Head's up display (HUD).
+7. Create a progress bar.
 8. Create and style the end page
 9. save high scores in local storage 
 10. load and display high scores from local storage

@@ -48,6 +48,14 @@ startGame = () => {
 };
 
 getNewQuestion = () => {
+
+    if(availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS){
+        
+        /*go to the end page*/
+        return window.location.assign("/end.html");
+
+    }
+
     questionCounter++;
     
     const questionIndex = Math.floor(Math.random() * availableQuestions.length);
@@ -68,13 +76,11 @@ getNewQuestion = () => {
 choices.forEach(choice => {
     choice.addEventListener("click", e =>{
         if(!acceptingAnswers) return ;
-
         acceptingAnswers = false;
         const selectedChoice = e.target;
         const selectAnswer = selectedChoice.dataset["number"];
         console.log(selectAnswer);
         getNewQuestion();
-
     });
 });
 

@@ -1,6 +1,6 @@
-# Quiz App with HTML CSS Javascript
+# Quiz App with HTML/CSS/Javascript
 
-## Atualização: 28 de outubro de 2019 - 22:15
+## Atualização: 29 de outubro de 2019 - 11:23
 ## Criação: 25 de outubro de 2019
 ## Prática : @douglasabnovato
 
@@ -21,6 +21,10 @@ b. css-tricks: `rem` for global sizing and `rem` for local sizing.
 8. Create and style the end page
 9. save high scores in local storage 
 10. load and display high scores from local storage
+11. fetch API to load questions from local json file
+12. fetch API to load questions from open trivia db API
+13. create a spinning loader 
+14. closing
 
 :. Do curso `Build a Quiz App with HTML CSS Javascript da Udemy`.<br>
 Por James Quick - `https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript/learn/lecture/13703646#overview`

@@ -22,7 +22,8 @@ b. css-tricks: `rem` for global sizing and `rem` for local sizing.
 9. Save High Scores in Local Storage. 
 10. Load and Display High Scores from Local Storage. 
 11. Fetch API to Load Questions from `Local Json file`.
-12. Fetch API to Load Questions from `Open Trivia DB API`.
+12. Fetch API to Load Questions from `Open Trivia DB API`:<br>
+- `https://opentdb.com/`
 13. create a spinning loader 
 14. closing
 

@@ -18,9 +18,13 @@ fetch("questions.json")
     .then(res => {        
         return res.json();
     })
-    .then(loadedQuestions => {        
+    .then(loadedQuestions => {   
+        console.log(loadedQuestions);     
         questions = loadedQuestions;
         startGame();
+    })
+    .catch(err => { 
+        console.error(err);
     });
 
 /* constants */

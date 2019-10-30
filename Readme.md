@@ -24,6 +24,7 @@ b. css-tricks: `rem` for global sizing and `rem` for local sizing.
 11. Fetch API to Load Questions from `Local Json file`.
 12. Fetch API to Load Questions from `Open Trivia DB API`:<br>
 - `https://opentdb.com/`
+- `https://opentdb.com/api.php?amount=10&category=18&difficulty=easy&type=multiple`
 13. create a spinning loader 
 14. closing
 

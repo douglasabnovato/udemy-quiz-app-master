@@ -1,6 +1,6 @@
 # Quiz App with HTML/CSS/Javascript
 
-## Atualização: 29 de outubro de 2019 - 16:37
+## Atualização: 30 de outubro de 2019 - 11:34
 ## Criação: 25 de outubro de 2019
 ## Prática : @douglasabnovato
 
@@ -21,8 +21,8 @@ b. css-tricks: `rem` for global sizing and `rem` for local sizing.
 8. Create and style The End page.
 9. Save High Scores in Local Storage. 
 10. Load and Display High Scores from Local Storage. 
-11. fetch API to load questions from local json file
-12. fetch API to load questions from open trivia db API
+11. Fetch API to Load Questions from `Local Json file`.
+12. Fetch API to Load Questions from `Open Trivia DB API`.
 13. create a spinning loader 
 14. closing
 

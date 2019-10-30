@@ -14,7 +14,7 @@
 ### Section 1 - Project
 1. Introduction and Resources. 
 2. Create and Style the home page .
-a. Extensions: Live Server 5.6.1.
+a. Extensions: Live Server 5.6.1 : in `index.html`, click in the `Open with Live Server`.
 b. CSS-tricks: `rem` for global sizing and `rem` for local sizing.
 3. Create and style the game page.
 4. Display hard coded questions and answers.

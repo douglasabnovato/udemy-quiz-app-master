@@ -1,6 +1,6 @@
 # Quiz App with HTML/CSS/Javascript
 
-## Atualização: 30 de outubro de 2019 - 18:55
+## Atualização: 30 de outubro de 2019 - 19:30
 ## Criação: 25 de outubro de 2019
 ## Prática : @douglasabnovato
 
@@ -44,6 +44,15 @@ You're going to learn how to build a Quiz application without the assistance of 
 ##### What you’ll learn ?
 
 ES6 JavaScript features like arrow functions, the spread operator, const and let, and template literal string, how to use the Fetch API to load trivia questions from an API, how to store high scores in Local Storage, how to use Flexbox, Animations, and REM units in CSS, how to create a progress bar from scratch, how to create a spinning loader icon from scratch.
+
+##### Final Result 
+![tela-1](/images/tela-1.jpg)
+![tela-2](/images/tela-2.jpg)
+![tela-3](/images/tela-3.jpg)
+![tela-4](/images/tela-4.jpg)
+![tela-5](/images/tela-5.jpg)
+![tela-6](/images/tela-6.jpg) 
+
 
 :. Do curso `Build a Quiz App with HTML CSS Javascript da Udemy`.<br>
 Por James Quick - `https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript/learn/lecture/13703646#overview`

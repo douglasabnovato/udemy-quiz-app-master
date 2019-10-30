@@ -1,21 +1,24 @@
 # Quiz App with HTML/CSS/Javascript
 
-## Atualização: 30 de outubro de 2019 - 11:34
+## Atualização: 30 de outubro de 2019 - 18:12
 ## Criação: 25 de outubro de 2019
 ## Prática : @douglasabnovato
 
 ![Udemy](/images/logo-udemy.png)
 ![Git](/images/logo-git.png)
 ![GitHub](/images/logo-github.png)
+![HTML/CSS/JS](/images/logo-html-css-js.jpeg)
+![TRIVIA](/images/logo-trivia.jpeg)
+![VSCode](/images/logo-VSCode.png) 
 
 ### Section 1 - Project
 1. Introduction and Resources. 
 2. Create and Style the home page .
-a. extensions: Live Server 5.6.1.
-b. css-tricks: `rem` for global sizing and `rem` for local sizing.
+a. Extensions: Live Server 5.6.1.
+b. CSS-tricks: `rem` for global sizing and `rem` for local sizing.
 3. Create and style the game page.
-4. display hard coded questions and answers.
-5. display feedback for Correct / Incorrect Answers.
+4. Display hard coded questions and answers.
+5. Display feedback for Correct / Incorrect Answers.
 6. Create Head's up display (HUD).
 7. Create a progress bar.
 8. Create and style The End page.
@@ -26,7 +29,7 @@ b. css-tricks: `rem` for global sizing and `rem` for local sizing.
 - `https://opentdb.com/`
 - `https://opentdb.com/api.php?amount=10&category=18&difficulty=easy&type=multiple`
 13. Create a Spinning Loader. 
-14. closing
+14. Closing
 
 #### Description
 

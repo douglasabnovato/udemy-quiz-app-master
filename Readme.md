@@ -8,7 +8,7 @@
 ![Git](/images/logo-git.png)
 ![GitHub](/images/logo-github.png)
 ![HTML/CSS/JS](/images/logo-html-css-js.jpeg)
-![TRIVIA](/images/logo-trivia.jpeg)
+![TRIVIA](/images/logo-trivia.jpg)
 ![VSCode](/images/logo-VSCode.png) 
 
 ### Section 1 - Project

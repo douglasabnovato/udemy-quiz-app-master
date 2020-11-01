@@ -5,30 +5,28 @@
 ---
 <br>
 
-- tela 1/6
+- Home
 ![tela-1](/images/tela-1.jpg)
-- tela 2/6
+- Loading
 ![tela-2](/images/tela-2.jpg)
-- tela 3/6
+- Correct Answer
 ![tela-3](/images/tela-3.jpg)
-- tela 4/6
+- Wrong Answer
 ![tela-4](/images/tela-4.jpg)
-- tela 5/6
+- The End
 ![tela-5](/images/tela-5.jpg)
-- tela 6/6
+- High Scores
 ![tela-6](/images/tela-6.jpg) 
 
 ### O que é a aplicação 
 
-You're going to learn how to build a Quiz application without the assistance of libraries or frameworks. 
-
-- Save high scores in Local Storage
-- Create a progress bar
-- Create a spinning loader icon
-- Dynamically generate HTML in JavaScript
-- Fetch trivia questions from Open Trivia DB API 
-
-ES6 JavaScript features like arrow functions, the spread operator, const and let, and template literal string, how to use the Fetch API to load trivia questions from an API, how to store high scores in Local Storage, how to use Flexbox, Animations, and REM units in CSS, how to create a progress bar from scratch, how to create a spinning loader icon from scratch.
+- Um quiz
+- Uma aplicação sem o uso de bibliotecas e frameworks
+- Salvar os ponto no Local Storage
+- Uma progress bar para as perguntas
+- Uma spinning loader icon construída manualmente
+- Os elementos do HTML gerados dinamicamente com JS 
+- As perguntas obtidas a partir da consulta da Open Trivia DB API  
 
 #### Tecnologias/ Ferramentas/ Bibliotecas
 
@@ -40,7 +38,6 @@ ES6 JavaScript features like arrow functions, the spread operator, const and let
 
 #### Código + Dependências
 
-- projeto na pasta local
 - Open with Live Server: http://127.0.0.1:5500/index.html
 
 #### Passo a passo do projeto 
